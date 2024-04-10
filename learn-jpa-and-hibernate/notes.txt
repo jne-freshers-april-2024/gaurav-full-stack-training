@@ -1,0 +1,9 @@
+insert into course(id, name, author) values(1, 'SpringBoot', 'Thinkitive');
+
+select * from course;
+
+update course set name='react' where id = 1;
+
+delete course where id = 1;
+
+desc course;
