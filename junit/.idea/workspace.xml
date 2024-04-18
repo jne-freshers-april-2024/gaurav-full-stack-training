@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb7e34b9-9b12-44a2-9f61-01d9114991ed" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="MyMathTest.test" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2fB8WkJk7hawtHklRiFoeCnSGku" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.MyAssertTest.executor": "Run",
+    "JUnit.MyBeforeAfterTest.executor": "Run",
+    "JUnit.MyBeforeAfterTest.test3.executor": "Run",
+    "JUnit.MyMathTest.calculateSum_ThreeMemberArray.executor": "Debug",
+    "JUnit.MyMathTest.calculateSum_ZeroLengthArray.executor": "Debug",
+    "JUnit.MyMathTest.executor": "Run",
+    "JUnit.MyMathTest.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/home/lnv-0033/IdeaProjects/learn-spring-boot/junit/Test/com/thinkitive/junit",
+    "onboarding.tips.debug.path": "/home/lnv-0033/IdeaProjects/learn-spring-boot/junit/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.thinkitive.junit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyBeforeAfterTest">
+    <configuration name="MyAssertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thinkitive.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.junit.MyAssertTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBeforeAfterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thinkitive.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.junit.MyBeforeAfterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBeforeAfterTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thinkitive.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.junit.MyBeforeAfterTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMathTest.calculateSum_ThreeMemberArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thinkitive.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.junit.MyMathTest" />
+      <option name="METHOD_NAME" value="calculateSum_ThreeMemberArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMathTest.calculateSum_ZeroLengthArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thinkitive.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.junit.MyMathTest" />
+      <option name="METHOD_NAME" value="calculateSum_ZeroLengthArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyBeforeAfterTest" />
+        <item itemvalue="JUnit.MyBeforeAfterTest.test3" />
+        <item itemvalue="JUnit.MyAssertTest" />
+        <item itemvalue="JUnit.MyMathTest.calculateSum_ZeroLengthArray" />
+        <item itemvalue="JUnit.MyMathTest.calculateSum_ThreeMemberArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb7e34b9-9b12-44a2-9f61-01d9114991ed" name="Changes" comment="" />
+      <created>1713263143873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713263143873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
