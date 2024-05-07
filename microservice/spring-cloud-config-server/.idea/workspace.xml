@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="570345b9-75df-484e-9eb3-bb93c5dc9603" name="Changes" comment="">
+      <change beforePath="$USER_HOME$/Documents/git-localconfig-repo/limits-service.properties" beforeDir="false" afterPath="$USER_HOME$/Documents/git-localconfig-repo/limits-service.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/git-localconfig-repo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fleT2tH27aFrt5t7T7WUN8nhAO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CurrencyConversionServiceApplication.executor": "Run",
+    "Application.CurrencyExchangeServiceApplication.executor": "Run",
+    "Application.CurrencyExchangeServiceApplication8000.executor": "Run",
+    "Application.CurrencyExchangeServiceApplication8001.executor": "Run",
+    "Application.LimitsServiceApplication.executor": "Run",
+    "Application.LimitsServiceApplication8081.executor": "Run",
+    "Application.NetfilxEurekaNamingServerApplication.executor": "Run",
+    "Application.NetflixZuualEurekaDiscoveryApplication.executor": "Run",
+    "Application.SpringCloudConfigServerApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/lnv-0033/IdeaProjects/microservice/netflix-zuual-eureka-discovery",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.thinkitive.microservice.currencyexchangeservice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Documents/git-localconfig-repo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LimitsServiceApplication8081">
+    <configuration name="CurrencyConversionServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.microservice.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <module name="currency-conversion-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.microservice.currencyconversionservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication8000" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.microservice.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <module name="currency-exchange-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.microservice.currencyexchangeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication8001" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.microservice.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <module name="currency-exchange-service" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.microservice.currencyexchangeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitsServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.microservices.limitservice.LimitsServiceApplication" />
+      <module name="limit-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.microservices.limitservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitsServiceApplication8081" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.microservices.limitservice.LimitsServiceApplication" />
+      <module name="limit-service" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8081" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.microservices.limitservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetfilxEurekaNamingServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.microservice.netfilxeurekanamingserver.NetfilxEurekaNamingServerApplication" />
+      <module name="netfilx-eureka-naming-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.microservice.netfilxeurekanamingserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixZuualEurekaDiscoveryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkitive.microservice.netflixzuualeurekadiscovery.NetflixZuualEurekaDiscoveryApplication" />
+      <module name="netflix-zuual-eureka-discovery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkitive.microservice.netflixzuualeurekadiscovery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CurrencyExchangeServiceApplication8001" />
+      <item itemvalue="Application.LimitsServiceApplication8081" />
+      <item itemvalue="Application.CurrencyConversionServiceApplication" />
+      <item itemvalue="Application.NetfilxEurekaNamingServerApplication" />
+      <item itemvalue="Application.NetflixZuualEurekaDiscoveryApplication" />
+      <item itemvalue="Application.CurrencyExchangeServiceApplication8000" />
+      <item itemvalue="Application.LimitsServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NetflixZuualEurekaDiscoveryApplication" />
+        <item itemvalue="Application.CurrencyExchangeServiceApplication8000" />
+        <item itemvalue="Application.CurrencyConversionServiceApplication" />
+        <item itemvalue="Application.NetfilxEurekaNamingServerApplication" />
+        <item itemvalue="Application.LimitsServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="570345b9-75df-484e-9eb3-bb93c5dc9603" name="Changes" comment="" />
+      <created>1714380095438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714380095438</updated>
+    </task>
+    <servers />
+  </component>
+</project>
